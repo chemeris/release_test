@@ -1,0 +1,12 @@
+%{"bear": {:git, "git://github.com/boundary/bear.git", "119234548783af19b8ec75c879c5062676b92571", [tag: "0.8.2"]},
+  "distillery": {:hex, :distillery, "0.9.8", "775773f8d64db8003ea78043a425e6d84aa8dcff929b27fe39c4687aaf4c6081", [:mix], []},
+  "edown": {:git, "https://github.com/uwiger/edown.git", "754be25f71a04099c83f3ffdff268e70beeb0021", []},
+  "exometer_core": {:git, "https://github.com/Feuerlabs/exometer_core.git", "9d41a0a0320f5483de75d9ef5c8e8b8592e29c11", [branch: "master"]},
+  "exometer_lager": {:git, "https://github.com/fairwaves/exometer_lager.git", "ea155576d1f59030a247a2a54020bf48a97d6088", []},
+  "folsom": {:git, "git://github.com/folsom-project/folsom", "38e2cce7c64ce1f0a3a918d90394cfc0a940b1ba", [ref: "38e2cce"]},
+  "goldrush": {:hex, :goldrush, "0.1.8", "2024ba375ceea47e27ea70e14d2c483b2d8610101b4e852ef7f89163cdb6e649", [:rebar3], []},
+  "hut": {:git, "git://github.com/tolbrino/hut.git", "025540398478ab6f95932c3234382ac5bb21ad3e", [ref: "v1.1.1"]},
+  "lager": {:hex, :lager, "3.2.1", "eef4e18b39e4195d37606d9088ea05bf1b745986cf8ec84f01d332456fe88d17", [:rebar3], [{:goldrush, "0.1.8", [hex: :goldrush, optional: false]}]},
+  "meck": {:git, "https://github.com/eproxus/meck.git", "dde759050eff19a1a80fd854d7375174b191665d", [tag: "0.8.2"]},
+  "parse_trans": {:git, "git://github.com/uwiger/parse_trans.git", "a210adafdfbb904d156d8f22abd5fb58fc17de1e", [tag: "2.9.2"]},
+  "setup": {:git, "git://github.com/uwiger/setup.git", "5c7d635145e5ffb8b0fa6b470770cdd1cb16b0b2", [tag: "1.6"]}}
